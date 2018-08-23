@@ -1,0 +1,16 @@
+F:\Sandeep\MS\Support\Akhila\ApartmentSystem_DB_Update_2017_11_06\ApartmentSystem.DAL\obj\Debug\ApartmentSystem.DAL.csprojResolveAssemblyReference.cache
+F:\Sandeep\MS\Support\Akhila\ApartmentSystem_DB_Update_2017_11_06\ApartmentSystem.DAL\bin\Debug\ApartmentSystem.DAL.dll
+F:\Sandeep\MS\Support\Akhila\ApartmentSystem_DB_Update_2017_11_06\ApartmentSystem.DAL\bin\Debug\ApartmentSystem.DAL.pdb
+F:\Sandeep\MS\Support\Akhila\ApartmentSystem_DB_Update_2017_11_06\ApartmentSystem.DAL\obj\Debug\ApartmentSystem.DAL.dll
+F:\Sandeep\MS\Support\Akhila\ApartmentSystem_DB_Update_2017_11_06\ApartmentSystem.DAL\obj\Debug\ApartmentSystem.DAL.pdb
+C:\Users\tarun\Documents\Visual Studio 2015\Projects\group project\ApartmentSystem_Group7_Nov18\ApartmentSystem_Group7_Nov18\ApartmentSystem.DAL\bin\Debug\ApartmentSystem.DAL.dll
+C:\Users\tarun\Documents\Visual Studio 2015\Projects\group project\ApartmentSystem_Group7_Nov18\ApartmentSystem_Group7_Nov18\ApartmentSystem.DAL\bin\Debug\ApartmentSystem.DAL.pdb
+C:\Users\tarun\Documents\Visual Studio 2015\Projects\group project\ApartmentSystem_Group7_Nov18\ApartmentSystem_Group7_Nov18\ApartmentSystem.DAL\obj\Debug\ApartmentSystem.DAL.csprojResolveAssemblyReference.cache
+C:\Users\tarun\Documents\Visual Studio 2015\Projects\group project\ApartmentSystem_Group7_Nov18\ApartmentSystem_Group7_Nov18\ApartmentSystem.DAL\obj\Debug\ApartmentSystem.DAL.dll
+C:\Users\tarun\Documents\Visual Studio 2015\Projects\group project\ApartmentSystem_Group7_Nov18\ApartmentSystem_Group7_Nov18\ApartmentSystem.DAL\obj\Debug\ApartmentSystem.DAL.pdb
+C:\Users\ivman\Downloads\ApartmentSystem_Group7_Nov18\ApartmentSystem_Group7_Nov18\ApartmentSystem_Group7_Nov18\ApartmentSystem.DAL\bin\Debug\ApartmentSystem.DAL.dll
+C:\Users\ivman\Downloads\ApartmentSystem_Group7_Nov18\ApartmentSystem_Group7_Nov18\ApartmentSystem_Group7_Nov18\ApartmentSystem.DAL\bin\Debug\ApartmentSystem.DAL.pdb
+C:\Users\ivman\Downloads\ApartmentSystem_Group7_Nov18\ApartmentSystem_Group7_Nov18\ApartmentSystem_Group7_Nov18\ApartmentSystem.DAL\obj\Debug\ApartmentSystem.DAL.csprojResolveAssemblyReference.cache
+C:\Users\ivman\Downloads\ApartmentSystem_Group7_Nov18\ApartmentSystem_Group7_Nov18\ApartmentSystem_Group7_Nov18\ApartmentSystem.DAL\obj\Debug\ApartmentSystem.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ivman\Downloads\ApartmentSystem_Group7_Nov18\ApartmentSystem_Group7_Nov18\ApartmentSystem_Group7_Nov18\ApartmentSystem.DAL\obj\Debug\ApartmentSystem.DAL.dll
+C:\Users\ivman\Downloads\ApartmentSystem_Group7_Nov18\ApartmentSystem_Group7_Nov18\ApartmentSystem_Group7_Nov18\ApartmentSystem.DAL\obj\Debug\ApartmentSystem.DAL.pdb
